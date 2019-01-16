@@ -18,7 +18,7 @@ int main ()
 ## Exercise 0.2
 > Type up and compile the above program.
 > What is the compiler error reported?
-  error: unknown type name 'Int'l did you mean 'int'?
+ > error: unknown type name 'Int'l did you mean 'int'?
 
 
 ## Exercise 0.3
