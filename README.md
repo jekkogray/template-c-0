@@ -18,42 +18,60 @@ int main ()
 ## Exercise 0.2
 > Type up and compile the above program.
 > What is the compiler error reported?
- > error: unknown type name 'Int'l did you mean 'int'?
+ ```
+ error: unknown type name 'Int'l did you mean 'int'?
+ ```
 
 
 ## Exercise 0.3
 > What is the error produced by compiling this program?
- > undefined reference to 'main'
+ ```
+ undefined reference to 'main'
+ ```
 
 ## Exercise 0.4
 > What is the error produced by compiling this program?
-  >undefined reference to 'Printf'
+  ```
+  undefined reference to 'Printf'
+  ```
   
 
 ## Exercise 0.5
 > What is the error produced by compiling this program?
-  > Expected declaration specifiers or '...' before '{' token {
+  ```
+  Expected declaration specifiers or '...' before '{' token 
+  ```
+  
 
 ## Exercise 0.6
 > What is the error produced by compiling this program?
-  > Missing terminating " character
+  ```
+  Missing terminating " character
+  ```
 
 ## Exercise 0.7
 > What is the error produced by compiling this program?
-  >expected ;
+  ```
+  expected;
+  ```
 
 ## Exercise 0.8
 > What is the error produced by compiling this program?
-  > Expected declaration or statement at the end of input
-
+  ```
+  Expected declaration or statement at the end of input
+  ```
 ## Exercise 0.9
 > What is the error produced by compiling this program?
-  > return type error
+  ```
+  return type error
+  ```
   
 
 ## Exercise 0.10
 > What kind of a compiler error do you get if you try to use a reserved word as an identifier? Use a reserved word to declare an integer identifier.
-  > error two or more data types in declaration specifiers
+  ```
+  error two or more data types in declaration specifiers
+  ```
 
 ## Exercise 0.11
 > What happens if you omit the "L" or "LLU" when declaring numStarsInUniverse and largestIntegerInC? What happens if you use `%d` for the largestIntegerInC print statement?
